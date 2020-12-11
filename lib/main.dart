@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 import 'package:weather_app/src/main_screen.dart';
 
 void main() {
